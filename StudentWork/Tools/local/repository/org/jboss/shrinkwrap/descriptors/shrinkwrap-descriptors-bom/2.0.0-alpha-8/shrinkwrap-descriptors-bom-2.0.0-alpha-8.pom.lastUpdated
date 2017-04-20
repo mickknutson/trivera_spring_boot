@@ -1,9 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Apr 20 18:08:14 EDT 2017
-http\://repo.spring.io/ext-release-local/.lastUpdated=1492726093612
+#Thu Apr 20 18:23:59 EDT 2017
+http\://repo.spring.io/ext-release-local/.lastUpdated=1492727039363
 http\://repo.spring.io/milestone/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1492726094134
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492727039861
 http\://repo.spring.io/ext-release-local/.error=
-http\://repo.spring.io/snapshot/.lastUpdated=1492726093957
+http\://repo.spring.io/snapshot/.lastUpdated=1492727039662
 http\://repo.spring.io/snapshot/.error=
-http\://repo.spring.io/milestone/.lastUpdated=1492726093800
+http\://repo.spring.io/milestone/.lastUpdated=1492727039490
