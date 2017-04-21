@@ -14,20 +14,20 @@ import static org.junit.Assert.assertThat;
 public class TestClient {
 
 	private static final Logger log = LoggerFactory.getLogger(TestClient.class);
-	
+
 	private static int numberOfTestAttempts = 10;
 
 	private static String usersUri = "http://localhost:8080/users";
 	private static String userToPost = "{ \"firstName\" : \"Mick\", \"lastName\" : \"Knutson\" }";
 
-	/** 
+	/**
 	 * Simple Test method to verify the Spring Boot REST API.
 	 * @param args
 	 */
 	public static void main(String args[]) {
 		RestTemplate restTemplate = new RestTemplate();
 		String result = null;
-		
+
 		// In case there was a User in the database already;
 		delete_users(restTemplate);
 
@@ -50,6 +50,8 @@ public class TestClient {
 		result = TestClient.get_users(restTemplate);
 		log.info("get_users Result: {}", result);
 		assertThat(result, containsString("\"users\" : [ ]"));
+
+		log.info("*** Successfully created a User through REST ***");
 
 	}
 
