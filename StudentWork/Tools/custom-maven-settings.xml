@@ -23,9 +23,9 @@
     |
     | Mac version of hard coding the path to the Maven local repository:
     -->
-    <localRepository>/Users/mickknutson/Documents/SYNCH/projects/Trivera/SpringBoot/Trivera_Spring_Boot_Project/Trivera_Spring_Boot/StudentWork/Tools/local/repository</localRepository>
+    <localRepository>/Users/mickknutson/Documents/workspace/TRIVERA/Trivera_Spring_Boot/StudentWork/Tools/local/repository</localRepository>
 
-    <offline>true</offline>
+    <offline>false</offline>
 
   <profiles>
   </profiles>
