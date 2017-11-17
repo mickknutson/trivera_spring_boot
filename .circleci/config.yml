@@ -54,8 +54,6 @@ jobs:
             pwd
             ls -la ${LOCAL_REPO}
             ls -la ${BASE_DIR}
-            ls -la $BASE_DIR/target
-            ls -la $BASE_DIR/target/surefire-reports
 
       - run:
           name: Save test results
