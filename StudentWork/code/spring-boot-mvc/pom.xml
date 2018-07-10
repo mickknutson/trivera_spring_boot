@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>spring-boot-mvc</name>
-    <description>Trivera project for Spring Boot</description>
+    <description>Parent: MVC Project for Spring Boot</description>
 
     <modules>
        <!-- <module>lab-code</module> -->

@@ -9,9 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-boot-mvc-solution</name>
-	<description>Trivera Mvc project for Spring Boot</description>
-
-	<url>https://www.TriveraTech.com</url>
+	<description>Solution: MVC Project for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

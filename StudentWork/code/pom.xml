@@ -10,7 +10,7 @@
     <version>2.0-RELEASE</version>
 
     <name>boot-code</name>
-    <description>Trivera Spring Boot: Code Shell Only</description>
+    <description>Spring Boot: Code Shell Only</description>
 
     <properties>
     </properties>
