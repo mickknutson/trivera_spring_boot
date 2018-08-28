@@ -25,12 +25,6 @@
     -->
     <localRepository>/Users/mickknutson/Documents/workspace/TRIVERA/Trivera_Spring_Boot/StudentWork/Tools/local/repository</localRepository>
 
-    <offline>false</offline>
-
-  <profiles>
-  </profiles>
-
-  <activeProfiles>
-  </activeProfiles>
+    <offline>true</offline>
 
 </settings>
